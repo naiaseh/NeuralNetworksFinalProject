@@ -5,4 +5,3 @@ This code is taken from [Okada39](https://github.com/okada39/pinn_burgers) and m
 * Loss was made an attribute of the optimizer
 * Number of hidden layers and neurons changed to that of the paper (i.e. 6 layers with 20 neurons each)
 
-Note that in addition extension to multiple epochs was attempted but unsuccessful (that is when my code broke).
